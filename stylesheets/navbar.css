@@ -2,6 +2,8 @@
     position: sticky;
     top: 0;
 
+    z-index: 100;
+
     height: var(--navbar--height);
 
     color: var(--white);
@@ -21,6 +23,10 @@
 
         background-color: var(--darker-color); }
     
+    .navbar a {
+        color: unset;
+        text-decoration: none; }
+
     .navbar .body {
         display: flex;
         flex-flow: row nowrap;
@@ -34,3 +40,36 @@
         .navbar .body h1 {
             padding-right: var(--padding-x); 
             padding-left: var(--padding-x); }
+
+        .navbar .body nav {
+            flex-grow: 1; }
+
+        .navbar .body nav ul {
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: flex-end; }
+
+        .navbar .body nav li {
+            padding: 15px; }
+
+        .navbar .body nav .active li::after {
+            margin-left: -5%;
+            width: 110%; }
+
+        .navbar .body nav li::after {
+            content: ' ';
+            display: block;
+
+            transition: all .2s ease-out;
+
+            background-color: var(--accent-color);
+
+            width: 0;
+            height: 2px;
+
+            margin-left: 50%;
+            margin-top: 12%; }
+
+        .navbar .body nav li:hover::after {
+            margin-left: -15%;
+            width: 130%; }

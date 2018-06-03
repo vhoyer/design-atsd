@@ -1,0 +1,37 @@
+.section {
+    margin-top: var(--navbar-height);
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    max-width: var(--content-max-width); }
+    
+    .section p {
+        color: var(--darker-color);
+        line-height: 1.4rem; }
+
+    .section>.heading {
+        color: var(--darker-color);
+
+        font-size: 2rem;
+        text-align: center; }
+
+        .section>.heading::after {
+            content: ' ';
+            display: block;
+
+            transition: all .3s ease-out;
+
+            margin-top: .5rem;
+            margin-left: auto;
+            margin-right: auto;
+            width: 20%;
+            height: 3px;
+
+            background-color: var(--accent-color); }
+
+        .section:hover>.heading::after {
+            width: 21%; }
+    
+    .section .carousel {
+        margin-top: 2rem;
+        margin-bottom: 2rem; }

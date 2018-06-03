@@ -8,7 +8,15 @@ body * {
 h1, .h1{
     font-size: 1.6rem;
 }
+.heading {
+    text-transform: uppercase;
+    color: var(--darker-color);
+}
 
 small, .small {
     font-size: .8em;
+}
+
+em, .italic {
+    font-style: italic;
 }
