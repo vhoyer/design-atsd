@@ -1,0 +1,36 @@
+.navbar {
+    position: sticky;
+    top: 0;
+
+    height: var(--navbar--height);
+
+    color: var(--white);
+    background-color: var(--dark-color); }
+
+    .navbar>*{
+        padding-right: var(--padding-x); 
+        padding-left: var(--padding-x); 
+    }
+
+    .navbar .head {
+        display: block;
+
+        height: 2em;
+        line-height: 2em;
+        width: 100%;
+
+        background-color: var(--darker-color); }
+    
+    .navbar .body {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+
+        height: 100px; }
+
+        .navbar .body * {
+            max-height: 100%; }
+
+        .navbar .body h1 {
+            padding-right: var(--padding-x); 
+            padding-left: var(--padding-x); }

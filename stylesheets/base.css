@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-color: var(--bg-color); }
+
+body * {
+    box-sizing: border-box; }
+
+h1, .h1{
+    font-size: 1.6rem;
+}
+
+small, .small {
+    font-size: .8em;
+}
