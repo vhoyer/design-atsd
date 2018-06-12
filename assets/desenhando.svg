@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\vhoye\Desktop\atsd\src\assets\logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="desenhando.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="45.016049"
+     inkscape:cy="25.006471"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Camada 2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.3)">
+    <circle
+       style="opacity:1;fill:#8bbf04;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04312487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers"
+       id="path4520"
+       cx="1.337536"
+       cy="288.22168"
+       r="1.3128409" />
+    <circle
+       style="opacity:1;fill:#8bbf04;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03928619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers"
+       id="circle4533"
+       cx="11.493728"
+       cy="288.91446"
+       r="1.1959811" />
+    <path
+       style="opacity:1;fill:#dad8cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.07547495;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers"
+       d="m 2.0721553,288.45432 2.2455946,0.88255 -0.044682,0.31205 z"
+       id="rect4537"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:1;fill:#dad8cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08492152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers"
+       d="m 10.730794,289.11156 -3.7028906,0.93438 -0.025922,-0.33662 z"
+       id="rect4537-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       r="1.7365299"
+       cy="290.02133"
+       cx="5.7485991"
+       id="circle4531"
+       style="opacity:1;fill:#8bbf04;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0570424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers" />
+    <path
+       style="opacity:1;fill:#dad8cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0849682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers"
+       d="m 5.996824,290.59257 1.4219458,1.50432 -0.4282684,0.30149 z"
+       id="rect4537-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       r="1.3940765"
+       cy="293.15561"
+       cx="8.1016941"
+       id="circle4535"
+       style="opacity:1;fill:#8bbf04;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04579333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69849249;paint-order:stroke fill markers" />
+  </g>
+</svg>
